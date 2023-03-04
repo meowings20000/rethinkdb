@@ -1,4 +1,4 @@
-module rethinkb.go
+module github.com/meowings20000/rethinkdb
 
 go 1.19
 
